@@ -18,5 +18,9 @@ class x1
     //Multiplication
     c=a*b;
     System.out.println(c);
+    
+    //Division
+    c=a/b;
+    System.out.println(c);
   }
 }
